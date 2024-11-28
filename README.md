@@ -1,2 +1,2 @@
 # MyFirstRepository
-Github Tutorial with Julius
+Github Tutorial with Julius in School
